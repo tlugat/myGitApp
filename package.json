@@ -1,0 +1,12 @@
+{
+	"name": "my_git_app",
+	"description": "",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "vite",
+		"build": "vite build"
+	},
+	"dependencies": {
+		"vite": "^4.0.3"
+	}
+}
